@@ -1,0 +1,9 @@
+/* This rule removes underline from all <a> elements inside the widget */
+.widget a {
+    text-decoration: none;
+}
+
+/* If you want to specifically target only the <a> elements inside the right-widget class */
+.right-widget a {
+    text-decoration: none;
+}
